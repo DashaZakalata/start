@@ -10,7 +10,9 @@ namespace start
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello, World!!");
+            Console.Write("Hi , girls!!!<333");
+            int a = 10;
+            Console.Write(a);
             Console.Read();
         }
     }
