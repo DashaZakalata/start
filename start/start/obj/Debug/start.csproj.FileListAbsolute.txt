@@ -1,0 +1,6 @@
+C:\Users\denis\OneDrive\Документы\Visual Studio 2012\Projects\start\start\bin\Debug\start.exe.config
+C:\Users\denis\OneDrive\Документы\Visual Studio 2012\Projects\start\start\bin\Debug\start.exe
+C:\Users\denis\OneDrive\Документы\Visual Studio 2012\Projects\start\start\bin\Debug\start.pdb
+C:\Users\denis\OneDrive\Документы\Visual Studio 2012\Projects\start\start\obj\Debug\start.csprojResolveAssemblyReference.cache
+C:\Users\denis\OneDrive\Документы\Visual Studio 2012\Projects\start\start\obj\Debug\start.exe
+C:\Users\denis\OneDrive\Документы\Visual Studio 2012\Projects\start\start\obj\Debug\start.pdb
